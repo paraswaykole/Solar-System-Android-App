@@ -9,7 +9,7 @@ Developed By:-
 Paras Waykole
 
 Guided By:-
-Prof. M.B. Tamboli
+Prof. M.S. Tamboli
 
 =======
 Solar-System-Android-App
